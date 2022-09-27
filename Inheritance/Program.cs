@@ -67,7 +67,7 @@ namespace Inheritance
             Console.WriteLine($"The speed of the reptile is {reptile1.Speed}.");
             Console.WriteLine($"The texture of scales are {reptile1.TextureOfScales}.");
             Console.WriteLine($"The age of the reptile is {reptile1.Age}.");
-            Console.WriteLine($"The number of legs is {bird1.NumberOfLegs}.");
+            Console.WriteLine($"The number of legs is {reptile1.NumberOfLegs}.");
             Console.WriteLine($"Does the reptile have a tail? {reptile1.HasTail}.");
             Console.WriteLine($"The color of the reptile is {reptile1.Color}.");
         }
